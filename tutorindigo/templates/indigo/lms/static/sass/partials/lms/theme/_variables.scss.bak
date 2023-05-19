@@ -1,0 +1,9 @@
+$primary: #009bde;
+
+// Theme fonts
+$font-family-title: 'Titillium';
+$serif: 'Titillium';
+$f-sans-serif: 'Titillium', 'Open Sans','Helvetica Neue', Helvetica, Arial, sans-serif;
+
+// Initialize the Open edX Bootstrap theme
+@import 'edx-bootstrap/sass/open-edx/theme';
